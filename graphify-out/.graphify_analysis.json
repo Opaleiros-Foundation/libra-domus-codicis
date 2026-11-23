@@ -1,0 +1,238 @@
+{
+  "communities": {
+    "0": [
+      "docs_script",
+      "docs_script_animatecounter",
+      "docs_script_books",
+      "docs_script_categories",
+      "docs_script_extractcategories",
+      "docs_script_filteredbooks",
+      "docs_script_initmatrix",
+      "docs_script_initmatrix_draw",
+      "docs_script_loadbooks",
+      "docs_script_renderbooks",
+      "docs_script_rendercategories",
+      "docs_script_renderstats",
+      "docs_script_showskeletons",
+      "docs_script_updatewebring"
+    ],
+    "1": [
+      "github_workflows_workflows_workflows_duplicate_checker",
+      "github_workflows_workflows_workflows_duplicate_checker_check_duplicates_runs_on",
+      "github_workflows_workflows_workflows_duplicate_checker_check_duplicates_steps",
+      "github_workflows_workflows_workflows_duplicate_checker_jobs",
+      "github_workflows_workflows_workflows_duplicate_checker_jobs_check_duplicates",
+      "github_workflows_workflows_workflows_duplicate_checker_name",
+      "github_workflows_workflows_workflows_duplicate_checker_pull_request_branches",
+      "github_workflows_workflows_workflows_duplicate_checker_push_branches",
+      "github_workflows_workflows_workflows_duplicate_checker_steps_name",
+      "github_workflows_workflows_workflows_duplicate_checker_steps_run",
+      "github_workflows_workflows_workflows_duplicate_checker_steps_uses",
+      "github_workflows_workflows_workflows_duplicate_checker_true",
+      "github_workflows_workflows_workflows_duplicate_checker_true_pull_request",
+      "github_workflows_workflows_workflows_duplicate_checker_true_push"
+    ],
+    "2": [
+      "scripts_scrape_philosophy_all_sources",
+      "scripts_scrape_philosophy_all_sources_download_book",
+      "scripts_scrape_philosophy_all_sources_error",
+      "scripts_scrape_philosophy_all_sources_log",
+      "scripts_scrape_philosophy_all_sources_main",
+      "scripts_scrape_philosophy_all_sources_scrape_baixe_livros",
+      "scripts_scrape_philosophy_all_sources_scrape_gutenberg",
+      "scripts_scrape_philosophy_all_sources_scrape_gutenberg_direct",
+      "scripts_scrape_philosophy_all_sources_scrape_internet_archive",
+      "scripts_scrape_philosophy_all_sources_scrape_portal_usp",
+      "scripts_scrape_philosophy_all_sources_sh__entry",
+      "scripts_scrape_philosophy_all_sources_success",
+      "scripts_scrape_philosophy_all_sources_warn"
+    ],
+    "3": [
+      "docs_explorer",
+      "docs_explorer_allbooks",
+      "docs_explorer_buildfolderstructure",
+      "docs_explorer_buildtreehtml",
+      "docs_explorer_countbooksinfolder",
+      "docs_explorer_folderstructure",
+      "docs_explorer_initmatrix",
+      "docs_explorer_initmatrix_draw",
+      "docs_explorer_loadexplorer",
+      "docs_explorer_renderfoldercontents",
+      "docs_explorer_renderfoldertree",
+      "docs_explorer_updatepathdisplay"
+    ],
+    "4": [
+      "docs_book",
+      "docs_book_books",
+      "docs_book_initmatrix",
+      "docs_book_initmatrix_draw",
+      "docs_book_loadbookdetails",
+      "docs_book_renderbookdetails",
+      "docs_book_renderrecommendations"
+    ],
+    "5": [
+      "scripts_generate_books_json",
+      "scripts_generate_books_json_sh__entry",
+      "scripts_remove_duplicates_philosophy",
+      "scripts_remove_duplicates_philosophy_extract_core_name",
+      "scripts_remove_duplicates_philosophy_normalize_name",
+      "scripts_remove_duplicates_philosophy_sh__entry"
+    ],
+    "6": [
+      "scripts_download_philosophy_smart",
+      "scripts_download_philosophy_smart_download_from_archive",
+      "scripts_download_philosophy_smart_search_philosophy",
+      "scripts_download_philosophy_smart_sh__entry"
+    ],
+    "7": [
+      "scripts_download_classic_philosophy",
+      "scripts_download_classic_philosophy_books",
+      "scripts_download_classic_philosophy_sh__entry"
+    ],
+    "8": [
+      "scripts_download_philosophy_archive",
+      "scripts_download_philosophy_archive_books",
+      "scripts_download_philosophy_archive_sh__entry"
+    ],
+    "9": [
+      "scripts_normalize_filenames",
+      "scripts_normalize_filenames_normalize_string",
+      "scripts_normalize_filenames_sh__entry"
+    ],
+    "10": [
+      "scripts_remove_similar_duplicates",
+      "scripts_remove_similar_duplicates_get_book_id",
+      "scripts_remove_similar_duplicates_sh__entry"
+    ],
+    "11": [
+      "scripts_commit_and_push_each",
+      "scripts_commit_and_push_each_sh__entry"
+    ],
+    "12": [
+      "scripts_commit_file",
+      "scripts_commit_file_sh__entry"
+    ],
+    "13": [
+      "scripts_find_duplicates",
+      "scripts_find_duplicates_sh__entry"
+    ],
+    "14": [
+      "scripts_generate_book_stats",
+      "scripts_generate_book_stats_sh__entry"
+    ],
+    "15": [
+      "scripts_massive_philosophy_download",
+      "scripts_massive_philosophy_download_sh__entry"
+    ],
+    "16": [
+      "scripts_push_repo",
+      "scripts_push_repo_sh__entry"
+    ],
+    "17": [
+      "scripts_remove_exact_duplicates",
+      "scripts_remove_exact_duplicates_sh__entry"
+    ],
+    "18": [
+      "scripts_search",
+      "scripts_search_sh__entry"
+    ]
+  },
+  "cohesion": {
+    "0": 0.24175824175824176,
+    "1": 0.14285714285714285,
+    "2": 0.47435897435897434,
+    "3": 0.30303030303030304,
+    "4": 0.42857142857142855,
+    "5": 0.4666666666666667,
+    "6": 0.8333333333333334,
+    "7": 0.6666666666666666,
+    "8": 0.6666666666666666,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0
+  },
+  "gods": [
+    {
+      "id": "scripts_scrape_philosophy_all_sources_download_book",
+      "label": "download_book()",
+      "degree": 10
+    },
+    {
+      "id": "docs_script_loadbooks",
+      "label": "loadBooks()",
+      "degree": 8
+    },
+    {
+      "id": "scripts_scrape_philosophy_all_sources_log",
+      "label": "log()",
+      "degree": 8
+    },
+    {
+      "id": "scripts_scrape_philosophy_all_sources_main",
+      "label": "main()",
+      "degree": 8
+    },
+    {
+      "id": "docs_explorer_renderfoldercontents",
+      "label": "renderFolderContents()",
+      "degree": 6
+    },
+    {
+      "id": "scripts_scrape_philosophy_all_sources_warn",
+      "label": "warn()",
+      "degree": 6
+    },
+    {
+      "id": "docs_explorer_buildtreehtml",
+      "label": "buildTreeHTML()",
+      "degree": 5
+    },
+    {
+      "id": "docs_explorer_loadexplorer",
+      "label": "loadExplorer()",
+      "degree": 5
+    },
+    {
+      "id": "docs_explorer_renderfoldertree",
+      "label": "renderFolderTree()",
+      "degree": 5
+    },
+    {
+      "id": "scripts_scrape_philosophy_all_sources_scrape_baixe_livros",
+      "label": "scrape_baixe_livros()",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "remove_duplicates_philosophy.sh script",
+      "target": "generate_books_json.sh script",
+      "source_files": [
+        "scripts/remove_duplicates_philosophy.sh",
+        "scripts/generate_books_json.sh"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `BOOKS`, `BOOKS` to the rest of the system?",
+      "why": "2 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

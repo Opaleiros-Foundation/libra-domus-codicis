@@ -1,0 +1,143 @@
+{
+  ".github/workflows/workflows_workflows_duplicate-checker.yml": {
+    "mtime": 1794858379.841625,
+    "seen": 1795461113.4516654,
+    "ast_hash": "99bd1c96ace64ef41490095e1179ae1a",
+    "semantic_hash": "99bd1c96ace64ef41490095e1179ae1a"
+  },
+  "docs/book.js": {
+    "mtime": 1794858379.8457584,
+    "seen": 1795461113.4517944,
+    "ast_hash": "4226a91fba99fd8d98a2db5413fe3098",
+    "semantic_hash": "4226a91fba99fd8d98a2db5413fe3098"
+  },
+  "docs/data/book_stats.json": {
+    "mtime": 1794858379.8468623,
+    "seen": 1795461113.4518259,
+    "ast_hash": "b76d2635cfbfd0c6ab781a6d15cd5ce9",
+    "semantic_hash": "b76d2635cfbfd0c6ab781a6d15cd5ce9",
+    "ast_empty": true
+  },
+  "docs/data/data_book_stats.json": {
+    "mtime": 1794858379.8479013,
+    "seen": 1795461113.4518273,
+    "ast_hash": "176cdda3cb07310629a558abe31d70e8",
+    "semantic_hash": "176cdda3cb07310629a558abe31d70e8",
+    "ast_empty": true
+  },
+  "docs/data/data_books.json": {
+    "mtime": 1794858379.8517578,
+    "seen": 1795461113.4518282,
+    "ast_hash": "2df05600a8f49b3d0b2766f5540084ab",
+    "semantic_hash": "2df05600a8f49b3d0b2766f5540084ab",
+    "ast_empty": true
+  },
+  "docs/explorer.js": {
+    "mtime": 1794858379.8558927,
+    "seen": 1795461113.4518287,
+    "ast_hash": "7fc639ed0241796fce61494aea9000fc",
+    "semantic_hash": "7fc639ed0241796fce61494aea9000fc"
+  },
+  "docs/script.js": {
+    "mtime": 1794858379.864141,
+    "seen": 1795461113.4518492,
+    "ast_hash": "647182b2ff70f2b634cc9c3a2b427644",
+    "semantic_hash": "647182b2ff70f2b634cc9c3a2b427644"
+  },
+  "scripts/commit_and_push_each.sh": {
+    "mtime": 1794858386.4440086,
+    "seen": 1795461113.4518673,
+    "ast_hash": "69f32d7d8df6f2753a7c619e9a82ce47",
+    "semantic_hash": "69f32d7d8df6f2753a7c619e9a82ce47"
+  },
+  "scripts/commit_file.sh": {
+    "mtime": 1794858386.4452012,
+    "seen": 1795461113.4518876,
+    "ast_hash": "0374a0013fc1f9f2c0cd2288709ac5ad",
+    "semantic_hash": "0374a0013fc1f9f2c0cd2288709ac5ad"
+  },
+  "scripts/download_classic_philosophy.sh": {
+    "mtime": 1794858386.4462805,
+    "seen": 1795461113.451907,
+    "ast_hash": "51b204251267c9597d017462c00b89d3",
+    "semantic_hash": "51b204251267c9597d017462c00b89d3"
+  },
+  "scripts/download_philosophy_archive.sh": {
+    "mtime": 1794858386.447376,
+    "seen": 1795461113.451926,
+    "ast_hash": "f34e9ffaa734375f91307233ea0bf9fa",
+    "semantic_hash": "f34e9ffaa734375f91307233ea0bf9fa"
+  },
+  "scripts/download_philosophy_smart.sh": {
+    "mtime": 1794858386.4484768,
+    "seen": 1795461113.451944,
+    "ast_hash": "387dceabb0d8f085a322d27d5922c6c4",
+    "semantic_hash": "387dceabb0d8f085a322d27d5922c6c4"
+  },
+  "scripts/find_duplicates.sh": {
+    "mtime": 1794858386.449046,
+    "seen": 1795461113.4519613,
+    "ast_hash": "f97fe07292da59cac74a7e15d74da429",
+    "semantic_hash": "f97fe07292da59cac74a7e15d74da429"
+  },
+  "scripts/generate_book_stats.sh": {
+    "mtime": 1794858386.4501364,
+    "seen": 1795461113.451981,
+    "ast_hash": "067fad15e79235a9f98f34340f463a59",
+    "semantic_hash": "067fad15e79235a9f98f34340f463a59"
+  },
+  "scripts/generate_books_json.sh": {
+    "mtime": 1794858386.4512248,
+    "seen": 1795461113.4519992,
+    "ast_hash": "e4c78662737610bb0576d6ea8bb47fb8",
+    "semantic_hash": "e4c78662737610bb0576d6ea8bb47fb8"
+  },
+  "scripts/massive_philosophy_download.sh": {
+    "mtime": 1794858386.4528193,
+    "seen": 1795461113.4520192,
+    "ast_hash": "06f53b003ec5081c9960083a5dd02a0b",
+    "semantic_hash": "06f53b003ec5081c9960083a5dd02a0b"
+  },
+  "scripts/normalize_filenames.sh": {
+    "mtime": 1794858386.45336,
+    "seen": 1795461113.452037,
+    "ast_hash": "ad84c22a56feb4fdc253b064a134c7b4",
+    "semantic_hash": "ad84c22a56feb4fdc253b064a134c7b4"
+  },
+  "scripts/push_repo.sh": {
+    "mtime": 1794858386.4544542,
+    "seen": 1795461113.4520557,
+    "ast_hash": "59b4debdbf38ff1d3887f13eefa5209c",
+    "semantic_hash": "59b4debdbf38ff1d3887f13eefa5209c"
+  },
+  "scripts/remove_duplicates_philosophy.sh": {
+    "mtime": 1794858386.4544542,
+    "seen": 1795461113.4520738,
+    "ast_hash": "5515d1b44ff32a2332bd23b850d59719",
+    "semantic_hash": "5515d1b44ff32a2332bd23b850d59719"
+  },
+  "scripts/remove_exact_duplicates.sh": {
+    "mtime": 1794858386.4559627,
+    "seen": 1795461113.452091,
+    "ast_hash": "fba3b7eecd92d08aac83549f56e4b430",
+    "semantic_hash": "fba3b7eecd92d08aac83549f56e4b430"
+  },
+  "scripts/remove_similar_duplicates.sh": {
+    "mtime": 1794858386.4574854,
+    "seen": 1795461113.4521086,
+    "ast_hash": "3514c1ea21a37b957b376a003f58b852",
+    "semantic_hash": "3514c1ea21a37b957b376a003f58b852"
+  },
+  "scripts/scrape_philosophy_all_sources.sh": {
+    "mtime": 1794858386.4579906,
+    "seen": 1795461113.452125,
+    "ast_hash": "91b52c7aaac1269c59860893c41c4297",
+    "semantic_hash": "91b52c7aaac1269c59860893c41c4297"
+  },
+  "scripts/search.sh": {
+    "mtime": 1794858386.4589958,
+    "seen": 1795461113.4521437,
+    "ast_hash": "fb79e86fab77004394eaf3fd10411567",
+    "semantic_hash": "fb79e86fab77004394eaf3fd10411567"
+  }
+}
