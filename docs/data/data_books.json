@@ -40,6 +40,16 @@
   }
 ,
   {
+    "name": "cronograma-3-meses.pdf",
+    "path": "libraria/cronogramas/cronograma-3-meses.pdf",
+    "title_clean": "cronograma - 3 - meses",
+    "description": "",
+    "language": "",
+    "tags": [],
+    "category": "cronogramas"
+  }
+,
+  {
     "name": "conhecendo_o_adobe_photoshop_cs6.pdf",
     "path": "libraria/design/conhecendo_o_adobe_photoshop_cs6.pdf",
     "title_clean": "conhecendo o adobe photoshop cs6",
@@ -297,16 +307,6 @@
     "language": "",
     "tags": [],
     "category": "fiction_and_literature/livros"
-  }
-,
-  {
-    "name": "cronograma-3-meses.pdf",
-    "path": "libraria/personal/cronogramas/cronograma-3-meses.pdf",
-    "title_clean": "cronograma - 3 - meses",
-    "description": "",
-    "language": "",
-    "tags": [],
-    "category": "personal/cronogramas"
   }
 ,
   {
